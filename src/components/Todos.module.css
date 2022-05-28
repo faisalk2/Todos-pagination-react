@@ -1,0 +1,22 @@
+.box{
+    background-color: rgb(224, 219, 219);
+    width: 20%;
+    margin: auto;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 10px;
+}
+.input{
+    border: none;
+    cursor: pointer;
+    width: 80%;
+}
+.save{
+    border: none;
+    background-color: white;
+    border-left: 1px solid black ;
+}
+.save:hover{
+    background-color:rgb(201, 196, 196) ;
+    border-radius: 2px;
+}
